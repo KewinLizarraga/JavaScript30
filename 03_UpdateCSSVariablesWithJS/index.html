@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UpdateCSSVariablesWithJS | JS30</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
+  </head>
+  <body>
+    <h2>Update CSS Variables with <span class="hl">JS</span></h2>
+
+    <div class="controls">
+      <label for="spacing">Spacing:</label>
+      <input
+        type="range"
+        name="spacing"
+        min="10"
+        max="200"
+        value="10"
+        data-sizing="px"
+      />
+
+      <label for="blur">Blur:</label>
+      <input
+        type="range"
+        name="blur"
+        min="0"
+        max="25"
+        value="10"
+        data-sizing="px"
+      />
+
+      <label for="imgSize">Size:</label>
+      <input
+        type="range"
+        name="imgSize"
+        min="100"
+        max="1000"
+        value="500"
+        data-sizing="px"
+      />
+
+      <label for="base">Base Color:</label>
+      <input type="color" name="base" value="#ffc600" />
+    </div>
+
+    <img
+      src="https://images.unsplash.com/photo-1489440543286-a69330151c0b"
+      alt=""
+    />
+
+    <script src="main.js"></script>
+  </body>
+</html>
