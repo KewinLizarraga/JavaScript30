@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 10px 25px;
+}
+
+hr {
+  margin: 15px 0;
+  border: 2px solid darkgreen;
+  border-style: dashed;
+}
+
+table,
+th,
+td {
+  border: 1px solid green;
+}
+
+th,
+td {
+  padding: 5px 10px;
+}
