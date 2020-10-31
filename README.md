@@ -6,3 +6,4 @@
 - 04 - Cardio :chart_with_upwards_trend: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/04_Cardio)
 - 05 - FlexPanelGallery :camera: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/05_FlexPanelGallery)
 - 06 - TypeAhead :memo: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/06_TypeAhead)
+- 07 - Cardio Day 2 :chart_with_upwards_trend: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/07_CardioDay2)
