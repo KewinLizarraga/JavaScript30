@@ -7,3 +7,4 @@
 - 05 - FlexPanelGallery :camera: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/05_FlexPanelGallery)
 - 06 - TypeAhead :memo: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/06_TypeAhead)
 - 07 - Cardio Day 2 :chart_with_upwards_trend: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/07_CardioDay2)
+- 08 - Fun With HTML5 Canvas :art: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/08_FunWithHTML5Canvas)
