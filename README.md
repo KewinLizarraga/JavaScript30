@@ -9,3 +9,4 @@
 - 07 - Cardio Day 2 :chart_with_upwards_trend: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/07_CardioDay2)
 - 08 - Fun With HTML5 Canvas :art: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/08_FunWithHTML5Canvas)
 - 09 - Dev Tools Domination :computer: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/09_DevToolsDomination)
+- 10 - Hold Shift And Check Checkboxes :ballot_box_with_check: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/10_HoldShiftAndCheckCheckboxes)

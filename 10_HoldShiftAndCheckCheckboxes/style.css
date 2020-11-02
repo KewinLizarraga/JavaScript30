@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  background: #ffc600;
+}
+
+.inbox {
+  max-width: 500px;
+  margin: 50px auto;
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.item:first-child {
+  border-bottom: 1px solid;
+}
+
+.item:last-child {
+  border-bottom: 0;
+}
+
+.item:hover {
+  background: #feffa9;
+}
+
+.item:hover:first-child {
+  border-radius: 15px 15px 0 0;
+}
+
+.item:hover:last-child {
+  border-radius: 0 0 15px 15px;
+}
+
+input[type="checkbox"] {
+  margin: 20px;
+}
+
+input:checked + p {
+  background: #feffa9;
+  text-decoration: line-through;
+  color: #bdbdbd;
+}
+
+.item:first-child input:checked + p {
+  border-radius: 0 15px 0 0;
+}
+
+.item:last-child input:checked + p {
+  border-radius: 0 0 15px 0;
+}
+
+p {
+  margin: 0;
+  padding: 20px;
+  transition: background 0.2s;
+  flex: 1;
+  font-weight: 200;
+  border-left: 1px solid #d1e2ff;
+}
+
+@media (max-width: 480px) {
+  .inbox {
+    max-width: 90%;
+  }
+  .item {
+    font-size: 20px;
+  }
+}
