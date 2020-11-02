@@ -10,3 +10,4 @@
 - 08 - Fun With HTML5 Canvas :art: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/08_FunWithHTML5Canvas)
 - 09 - Dev Tools Domination :computer: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/09_DevToolsDomination)
 - 10 - Hold Shift And Check Checkboxes :ballot_box_with_check: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/10_HoldShiftAndCheckCheckboxes)
+- 11 - Custom Video Player :movie_camera: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/11_CustomVideoPlayer)
