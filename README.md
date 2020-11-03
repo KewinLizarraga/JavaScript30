@@ -11,3 +11,4 @@
 - 09 - Dev Tools Domination :computer: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/09_DevToolsDomination)
 - 10 - Hold Shift And Check Checkboxes :ballot_box_with_check: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/10_HoldShiftAndCheckCheckboxes)
 - 11 - Custom Video Player :movie_camera: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/11_CustomVideoPlayer)
+- 12 - Key Sequence Detection :unicorn: [Code Here](https://github.com/KewinLizarraga/JavaScript30/tree/master/12_KeySequenceDetection)
